@@ -1,6 +1,7 @@
 #swear word remover
 Replace English,Marathi and Hindi Swear words from given string input
-package abusiveworddetector;
+
+`package abusiveworddetector;
 
 import com.twigsoftwares.swearwords.SwearWordRemover;
 import java.io.BufferedReader;
@@ -39,3 +40,4 @@ public class AbusiveWordDetector {
    
 
 }
+`
