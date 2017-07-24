@@ -45,6 +45,7 @@ public class HindiSwearWords {
         "G.*?andfat",
         "G.*?aa.*?ndmast.*?i.*?",
         "Ghondo.*?",
+        "l.*?a.*?v.*?a.*?de.*?",
         "bee.*?j",
         "Lund.*?o.*?o.*?s",
         "sh.*?o.*?rba",
