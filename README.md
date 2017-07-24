@@ -1,5 +1,6 @@
 #swear word remover
 Replace English,Marathi and Hindi Swear words from given string input
+import jar created by this library into your project and then in your project use the way below 'AbusiveWordDetector' may be your own class & 'abusiveworddetector' will be your own package.
 
 `package abusiveworddetector;
 
@@ -39,5 +40,4 @@ public class AbusiveWordDetector {
 
    
 
-}
-`
+}`
